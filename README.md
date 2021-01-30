@@ -1,4 +1,4 @@
-# npb-analysis
+# npb-data-display
 
 NPBのチームごとのデータを分析した結果を表示します。
 
